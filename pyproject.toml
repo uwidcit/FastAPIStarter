@@ -31,7 +31,6 @@ dependencies = [
 ]
 [project.optional-dependencies]
 dev = [
-
 ]
 
 [tool.pytest.ini_options]
